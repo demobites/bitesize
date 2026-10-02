@@ -20,17 +20,13 @@ We gave the same prompt to Claude Code on fresh Linux machines, once without the
 | Blind score | 5.0 / 10 | **7.6 / 10** |
 | Post as is? | no | **yes** |
 
-
+**Without the skill**
 
 https://github.com/user-attachments/assets/d998d628-0cec-4dd5-8f32-027975a2dfd7
 
 **With bitesize**
 
 https://github.com/user-attachments/assets/e9373464-e109-4782-8015-f6cb92fe1bf8
-
-
-
-
 
 Watch both videos side by side at [demobites.com/bitesize](https://www.demobites.com/bitesize).
 
@@ -77,4 +73,4 @@ Then ask for a demo in plain words: *"Make a short narrated demo of how to invit
 
 ## Licence
 
-[MIT](LICENSE). Made with love by [DemoBites](https://www.demobites.com).
+[MIT](LICENSE). Made by [DemoBites](https://www.demobites.com).
