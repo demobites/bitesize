@@ -1,0 +1,10 @@
+[0.4–4.9s] Let's find a Wikipedia article and jump straight to the part you need.
+[5.5–9.2s] We start in the Search Wikipedia box at the top of the page.
+[10.8–13.5s] Type Alan Turing, and suggestions appear.
+[13.6–15.0s] The first one is ours.
+[15.6–20.2s] The Alan Turing article opens, with its contents listed on the left.
+[21.4–25.7s] The Turing test lives under Career and Research, so let's expand it.
+[26.8–30.4s] Now pick early computers and the Turing test from the list.
+[31.6–35.0s] One click and we land right on that section of the article.
+[36.3–39.7s] The contents highlights it too so you always know where you are.
+[42.0–46.9s] And here Turing proposes the experiment now known as the Turing test.

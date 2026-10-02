@@ -1,0 +1,10 @@
+[0.8–3.6s] Here's Wikipedia, the free encyclopedia.
+[3.9–6.4s] Let's look up the article on Alan Turing.
+[7.2–10.0s] We click the search box and start typing his name.
+[10.3–12.3s] Suggestions appear as we type.
+[13.2–16.8s] We pick Alan Turing from the list and the full article opens.
+[17.5–23.0s] This is a long article, so instead of scrolling, we'll use the table of contents on the left.
+[23.7–27.2s] Here's the section we want, early computers and the Turing test.
+[27.3–28.3s] One click on it.
+[29.2–31.9s] and we jump straight to the section about the Turing test.
+[32.1–35.5s] That's how quickly you can find exactly what you need on Wikipedia.

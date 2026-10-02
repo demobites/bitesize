@@ -1,0 +1,12 @@
+{
+  "name": "bitesize",
+  "owner": { "name": "DemoBites", "url": "https://www.demobites.com" },
+  "plugins": [
+    {
+      "name": "bitesize",
+      "source": "./",
+      "description": "Teaches your coding agent to film a narrated product demo you can actually post.",
+      "version": "1.0.0"
+    }
+  ]
+}
