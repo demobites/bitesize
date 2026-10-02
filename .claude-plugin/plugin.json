@@ -2,9 +2,18 @@
   "name": "bitesize",
   "version": "1.0.0",
   "description": "Teaches your coding agent to film a narrated product demo you can actually post: story, filming, camera, voice and look.",
-  "author": { "name": "DemoBites", "url": "https://www.demobites.com" },
-  "homepage": "https://www.demobites.com",
+  "author": {
+    "name": "DemoBites",
+    "url": "https://www.demobites.com"
+  },
+  "homepage": "https://www.demobites.com/bitesize",
   "repository": "https://github.com/demobites/bitesize",
   "license": "MIT",
-  "keywords": ["demo", "video", "screen-recording", "playwright", "skill"]
+  "keywords": [
+    "demo",
+    "video",
+    "screen-recording",
+    "playwright",
+    "skill"
+  ]
 }

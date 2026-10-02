@@ -32,6 +32,8 @@ https://github.com/user-attachments/assets/e9373464-e109-4782-8015-f6cb92fe1bf8
 
 
 
+Watch both videos side by side at [demobites.com/bitesize](https://www.demobites.com/bitesize).
+
 The prompt both runs received, word for word, is in [examples/wikipedia-turing/prompt.md](examples/wikipedia-turing/prompt.md). The judge's notes are in [examples/wikipedia-turing/results.md](examples/wikipedia-turing/results.md).
 
 ## What the skill changes
