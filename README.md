@@ -2,7 +2,7 @@
 
 **A skill that teaches your coding agent to film a narrated product demo you can actually post.**
 
-Made with love by [DemoBites](https://www.demobites.com): video demos for everything you ship.
+Made by [DemoBites](https://www.demobites.com): video demos for everything you ship.
 
 ---
 
@@ -14,17 +14,23 @@ We gave the same prompt to Claude Code on fresh Linux machines, once without the
 
 | | Without the skill | With `bitesize` |
 |---|---|---|
-| Video | [without-skill.mp4](examples/wikipedia-turing/without-skill.mp4) | [with-skill.mp4](examples/wikipedia-turing/with-skill.mp4) |
 | Resolution | 1280 × 720, raw capture | 1920 × 1080, framed in a browser window |
 | Camera | no zooms | zooms on the search box, suggestions and contents |
 | Loudness | −22 LUFS | −16 LUFS |
 | Blind score | 5.0 / 10 | **7.6 / 10** |
 | Post as is? | no | **yes** |
 
-<p>
-  <a href="examples/wikipedia-turing/without-skill.mp4"><img src="examples/wikipedia-turing/without-skill.jpg" width="49%" alt="Without the skill: a small raw capture of Wikipedia"></a>
-  <a href="examples/wikipedia-turing/with-skill.mp4"><img src="examples/wikipedia-turing/with-skill.jpg" width="49%" alt="With bitesize: the same moment, zoomed and framed"></a>
-</p>
+
+
+https://github.com/user-attachments/assets/d998d628-0cec-4dd5-8f32-027975a2dfd7
+
+**With bitesize**
+
+https://github.com/user-attachments/assets/e9373464-e109-4782-8015-f6cb92fe1bf8
+
+
+
+
 
 The prompt both runs received, word for word, is in [examples/wikipedia-turing/prompt.md](examples/wikipedia-turing/prompt.md). The judge's notes are in [examples/wikipedia-turing/results.md](examples/wikipedia-turing/results.md).
 
